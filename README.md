@@ -29,7 +29,7 @@ MeteoApp is an innovative mobile application developed with React Native. It rei
 
 📦 **Installation**
 
-git clone https://github.com/ton-pseudo/meteo-app.git
+git clone https://github.com/HajarSmh/Meteo-App.git
 npm install
 npx expo start
 
